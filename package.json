@@ -8,7 +8,7 @@
     "structure": "node structure.js"
   },
   "dependencies": {
-    "html-validator": "^8.0.0",
-    "fs-extra": "^10.0.0"
+    "fs-extra": "^10.0.0",
+    "html-validate": "^8.20.1"
   }
 }

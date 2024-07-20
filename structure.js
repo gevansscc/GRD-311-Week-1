@@ -1,6 +1,6 @@
 const fs = require('fs-extra');
 const path = require('path');
-const validator = require('html-validator');
+const validator = require('html-validate');
 
 const checkFileExists = async (filePath) => {
   try {
